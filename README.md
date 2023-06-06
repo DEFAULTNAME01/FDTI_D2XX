@@ -1,2 +1,2 @@
 # FDTI_D2XX
-FDTI offical dll lib useage AS a reference
+FDTI offical dll lib API useage AS a reference
